@@ -33,12 +33,12 @@ This project involves developing metrics, building a Power BI dashboard based on
 ---
 
 ## 🖼️ Dashboard Preview
-> *(Insert a screenshot or gif of the dashboard here)*
+> *(https://github.com/nashukt/AtliQ_Grand_Hotel_project/blob/main/dashboard.pdf))*
 
 ---
 
 ## 🔗 Useful Links
-- 📂 [View Dataset & PBIX on GitHub](https://app.powerbi.com/links/33er279Gue?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+- 📂 [Live Dashboard](https://app.powerbi.com/links/33er279Gue?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 - 🎥 [Watch Presentation Video](#)
 
 ---
