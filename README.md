@@ -33,7 +33,7 @@ This project involves developing metrics, building a Power BI dashboard based on
 ---
 
 ## 🖼️ Dashboard Preview
-> *(https://github.com/nashukt/AtliQ_Grand_Hotel_project/blob/main/dashboard.pdf))*
+> *[View Dashboard](https://github.com/nashukt/AtliQ_Grand_Hotel_project/blob/main/dashboard.pdf))*
 
 ---
 
