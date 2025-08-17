@@ -38,7 +38,7 @@ This project involves developing metrics, building a Power BI dashboard based on
 ---
 
 ## 🔗 Useful Links
-- 📂 [Live Dashboard]([https://app.powerbi.com/links/33er279Gue?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiNGE2ZTVlMDctN2EyYi00Y2I4LThiNGUtMDdlZjBmYmM0MmZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+- 📂 [Live Dashboard](https://app.powerbi.com/links/33er279Gue?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiNGE2ZTVlMDctN2EyYi00Y2I4LThiNGUtMDdlZjBmYmM0MmZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - 🎥 [Watch Presentation Video](#)
 
 ---
