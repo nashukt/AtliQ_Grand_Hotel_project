@@ -40,7 +40,7 @@ This project involves developing metrics, building a Power BI dashboard based on
 ## 🔗 Useful Links
 - 📂 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGE2ZTVlMDctN2EyYi00Y2I4LThiNGUtMDdlZjBmYmM0MmZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-- 🎥 [Watch Presentation Video](#)
+
 
 ---
 
